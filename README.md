@@ -190,7 +190,6 @@ Flow kedua menangani pertanyaan pengguna:
 
 ```text
 .
-├── .gitignore
 ├── README.md
 ├── assets/
 │   ├── canvas.png
