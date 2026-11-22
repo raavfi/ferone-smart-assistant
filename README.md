@@ -438,10 +438,9 @@ Universitas Amikom Yogyakarta
 
 Untuk kolaborasi, presentasi, atau pengembangan lanjutan, tambahkan informasi kontak berikut:
 
-- GitHub: `https://github.com/<username>`
-- LinkedIn: `https://linkedin.com/in/<username>`
-- Email: `nama@email.com`
-- Website/Portfolio: `https://<domain>` 
+- GitHub: `https://github.com/raavfi`
+- LinkedIn: `https://www.linkedin.com/in/rafi-almazzydane-fairuz-zain-4182ab2ba/`
+- Email: `rafialmazzydane@gmail.com`
 
 ---
 
