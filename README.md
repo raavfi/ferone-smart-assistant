@@ -196,8 +196,8 @@ Flow kedua menangani pertanyaan pengguna:
 │   ├── canvas.png
 │   └── playground.png
 ├── docs/
-│   ├── prompt_template.md
-│   └── SOP_Ferone_Computer.pdf
+│   ├── prompt_template.png
+│   └── SOP & Katalog Layaranan Ferone Computer (1).pdf
 └── flow/
     └── ferone-smart-assistant.json
 ```
